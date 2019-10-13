@@ -1,6 +1,6 @@
 # Hacktoberfest_SignIn_2019
 
-The goal of this repo is to help beginners who are doing their first pull requests. Feel free to join!
+The goal of this repository is to help beginners who are doing their first pull requests. Feel free to join!
 Note, this is not affiliated with the Official Hacktoberfest Team, it is merely to help you get started.
 
 ## Instruction
@@ -16,8 +16,8 @@ In the index file, look for the 'ol' tag. Then insert a 'li' tag with your link 
 
 
   - Click on the fork on the top to fork this repo.
-  - Go to your repo where you forked the project.
-  - Hit the clone button on your forked repo and copy the given link.
+  - Go to your repository where you forked the project.
+  - Hit the clone button on your forked repository and copy the given link.
   - On your terminal / command prompt, type "git clone [put the link here]".
   - Change the index file in the folder.
   - Afterward, on your terminal / command prompt, type "git add index.html"; then 'git commit -m "[type a message]" '.
